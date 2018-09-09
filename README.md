@@ -4,6 +4,6 @@ This paper aims to elaborate the MARADJS (Machine Learning Repository Applied to
 In relation to virtual pests, MARADJS extracted malicious JavaScript files from Github which is a repository of malware samples to provide security researchers, incident responders, forensic analysts, and the morbidly curious access to samples of live malicious code. With regard to benign js files, the catalog was given from the application repository JQuery Plugin Registry. It is emphasized that all benign files have been audited by VirusTotal. Therefore, benign js files, contained in MARADJS, have had their benevolence attested by the world's leading commercial antivirus. 
 Therefore, MARADJS freely makes available all its benign and malware samples:
 
-•	extension files js,
-•	Virustotal audits,
+•	extension files js.
+•	Virustotal audits.
 •	Dynamic analysis of the Cuckoo Sandbox.
